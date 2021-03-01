@@ -19,7 +19,7 @@ setup;
 ## Citation
 
 ```
-@Misc{DEMIPP,
+@Misc{DCCUT,
 	title = {DCCUT -- A MATLAB Toolbox of DCCUT global optimization algorithm for mixed-binary linear program},
 	author = {Niu, Yi-Shuai},	
 	year = {2018},
