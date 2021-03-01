@@ -6,7 +6,7 @@ parpool('local',30);
 % 10-30 pure
 %%%%%%%%%%%%%%%%%%%%%%%%
 clear MIP;
-load('matlab_30.mat')
+load('sample_30_0_10.mat')
 %%
 % test using DCCUT
 ops=DCCUT_options;
